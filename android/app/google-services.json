@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "71626801923",
+    "firebase_url": "https://weathermonitoring-155ed-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "weathermonitoring-155ed",
+    "storage_bucket": "weathermonitoring-155ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71626801923:android:4d9861ef3dbbff04435f36",
+        "android_client_info": {
+          "package_name": "com.example.weathermonitoring"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfv4EZCYbT6BBF_umfSJkP-SgE2p2M8oU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
