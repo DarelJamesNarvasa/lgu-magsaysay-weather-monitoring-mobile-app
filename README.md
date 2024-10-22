@@ -1,4 +1,4 @@
-# weathermonitoring
+# lgu magsaysay weather monitoring mobile app
 
 A new Flutter project.
 
