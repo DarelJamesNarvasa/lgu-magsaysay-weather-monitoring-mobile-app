@@ -10,7 +10,7 @@ This mobile app data is for monitoring the data from the Weather Station Kit whi
 
 1. Clone this repository.
 2. Download and install Flutter SDK. You can visit this link for guides: https://docs.flutter.dev/get-started/install.
-3. Run <pre>flutter pub get command to install dependencies
+3. Run <pre>flutter pub get <pre> command to install dependencies
 
 ## Requirements
   -
