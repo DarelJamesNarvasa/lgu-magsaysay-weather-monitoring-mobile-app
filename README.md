@@ -14,8 +14,8 @@ This mobile app data is for monitoring the data from the Weather Station Kit whi
 
 ## Requirements
 Software
-- Android Studio v2024.1.1 or higher
+- Android Studio v2024.1.1 or latest version; You can download in this link: https://developer.android.com/studio
 
 Hardware
-- Andriod Device
-- At least 40 MB storage
+- Android Device
+- At least 40 MB of storage
