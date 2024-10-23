@@ -13,9 +13,9 @@ This mobile app data is for monitoring the data from the Weather Station Kit whi
 3. Run `flutter pub get` command to install dependencies
 
 ## Requirements
-# Software
+Software
 - Android Studio v2024.1.1 or higher
 
-# Hardware
+Hardware
 - Andriod Device
 - At least 40 MB storage
