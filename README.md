@@ -1,4 +1,4 @@
-![Screenshot_57](https://github.com/user-attachments/assets/ab16c885-ed89-46a9-96a5-8a1293990939)# lgu magsaysay weather monitoring mobile app
+# lgu magsaysay weather monitoring mobile app
 
 This mobile app data is for monitoring the data from the Weather Station Kit which displays wind speed, wind direction, rain intensity, air pressure, temperature, and humidity.
 
